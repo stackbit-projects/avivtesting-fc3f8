@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Avivly, '
+    title: 'Avivly, Physio by day & developer by night '
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
