@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: 'Avivly, Physio by day & developer by night '
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      My first website in React with Gatsby
     actions:
       - label: Try Free
         url: /pricing
