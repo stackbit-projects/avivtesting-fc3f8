@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Avivly, The flying hamsters project'
     content: |
       > First modern web try by Aviv
     actions:
