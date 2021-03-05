@@ -13,7 +13,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/flying-hamsters@2x.png
+    image: images/the flying  hamsters logo  (2).png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
