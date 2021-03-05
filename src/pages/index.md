@@ -5,7 +5,7 @@ sections:
     title: 'Avivly, The flying hamsters project'
     subtitle: The flying hamsters project
     content: |
-      My first website in React with Gatsby
+      > My first website in React with Gatsby
     actions:
       - label: Try Free
         url: /pricing
