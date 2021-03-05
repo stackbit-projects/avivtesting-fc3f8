@@ -57,8 +57,8 @@ sections:
     title: What is the flying hamsters project
     subtitle: Features Section Example
     features:
-      - title: The cookies, the chips and the chocolate
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+      - title: 'The cookies, the chips and the chocolate'
+        subtitle: 'made by kids, for the kids'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
