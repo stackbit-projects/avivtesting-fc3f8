@@ -19,7 +19,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    title: T
+    title: TE
   - type: features_section
     title: What is the flying hamsters project
     subtitle: Features Section Example
