@@ -5,7 +5,7 @@ sections:
     content: |
       > cookies and more
     actions:
-      - label: Try Free
+      - label: B
         url: /pricing
         style: primary
       - label: Learn More
