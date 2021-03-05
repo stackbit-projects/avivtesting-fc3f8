@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: 'Avivly, The flying hamsters project'
-    subtitle: The flying hamsters project
     content: |
       > My first website in React with Gatsby
     actions:
