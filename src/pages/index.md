@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Avivly, Physio by day & developer by night '
-    subtitle: Optional hero section subtitle
+    subtitle: The flying hamsters project
     content: |
       My first website in React with Gatsby
     actions:
