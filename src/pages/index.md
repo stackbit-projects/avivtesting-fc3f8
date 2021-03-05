@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      > First modern web try by Aviv
+      > cookies and more
     actions:
       - label: Try Free
         url: /pricing
