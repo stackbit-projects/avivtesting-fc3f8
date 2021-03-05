@@ -5,7 +5,7 @@ sections:
     content: |
       > cookies and more
     actions:
-      - label: B
+      - label: Buy now
         url: /pricing
         style: primary
       - label: Learn More
