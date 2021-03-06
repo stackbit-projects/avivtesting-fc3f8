@@ -325,7 +325,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
 seo:
-  title: T
+  title: The flying hamsters project
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
