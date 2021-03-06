@@ -326,7 +326,7 @@ sections:
     type: form_section
 seo:
   title: The flying hamsters project
-  description: The preview of the DIY theme
+  description: Cookies and more - made by kids for the kids
   extra:
     - name: 'og:type'
       value: website
