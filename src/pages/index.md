@@ -40,7 +40,7 @@ sections:
         image: images/flying-hamsters@2x.png
         image_alt: Feature 1 placeholder image
         media_position: right
-        media_width: fifty
+        media_width: thirty-three
       - title: The Big Title For the Feature
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
