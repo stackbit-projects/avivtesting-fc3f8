@@ -35,7 +35,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/flying-hamsters@2x.png
+        image: images/flying-hamsters@2x.webp
         image_alt: 'The flying hamsters '
         media_position: right
         media_width: fifty
