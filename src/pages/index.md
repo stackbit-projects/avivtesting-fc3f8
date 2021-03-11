@@ -22,7 +22,7 @@ sections:
     title: 'The flying Hamsters '
   - type: features_section
     title: What is the flying hamsters project
-    subtitle: Features Section Exampl
+    subtitle: Features Section Examp
     features:
       - title: 'The cookies, the chips and the chocolate'
         subtitle: 'made by kids, for the kids'
