@@ -25,10 +25,9 @@ sections:
     features:
       - title: 'The cookies, the chips and the chocolate'
         subtitle: 'made by kids, for the kids'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Together with my kids and my friends kids we created this fun brand
+          which can be anything from cookies to chip or chocolate 
         actions:
           - label: Learn More
             url: /style-guide
