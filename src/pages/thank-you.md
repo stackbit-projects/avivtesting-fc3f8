@@ -5,7 +5,7 @@ sections:
     title: Thank You!
     subtitle: >-
       Thank you for contacting us. We will get back in touch with you soon. Have
-      a great day!
+      a great day! and keep flying those Hamsters
     actions:
       - label: Back to homepage
         url: /
