@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Choose your proudct
-    subtitle: Optional hero section subtitle
+    subtitle: 'Cookies, Chips or chocolate'
     align: center
     padding_top: large
     padding_bottom: small
