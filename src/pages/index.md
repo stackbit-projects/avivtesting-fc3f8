@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      > cookies and more
+      >
     actions:
       - label: Buy now
         url: /pricing
