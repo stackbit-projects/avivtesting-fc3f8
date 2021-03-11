@@ -53,7 +53,6 @@ sections:
   - type: features_section
     features:
       - title: "“We got chocolate too, try our pistachio and fly away\_ ”"
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/chocolate-bar-mockup-scene.webp
         image_alt: Brandon Guidelines
         media_position: right
