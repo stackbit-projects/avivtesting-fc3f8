@@ -99,6 +99,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+    background_image: images/the-flying-hamsters-chips-project.webp
 seo:
   title: The flying hamsters project
   description: Cookies and more - made by kids for the kids
