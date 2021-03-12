@@ -74,6 +74,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+    has_border: true
 seo:
   title: The flying hamsters project
   description: Cookies and more - made by kids for the kids
