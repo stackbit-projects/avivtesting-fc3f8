@@ -49,7 +49,7 @@
     "footer": {
         "logo": "images/the flying  hamsters.png",
         "logo_alt": "flying hamsters project",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_title": "Company",
         "primary_nav_links": [
             {
