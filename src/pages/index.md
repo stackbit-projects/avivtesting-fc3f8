@@ -90,7 +90,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
 seo:
-  title: The flying hamsters project
+  title: The flying hamsters project by Aviv at Avivly
   description: Cookies and more - made by kids for the kids
   extra:
     - name: 'og:type'
