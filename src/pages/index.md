@@ -91,7 +91,9 @@ sections:
     type: features_section
 seo:
   title: The flying hamsters project by Aviv at Avivly
-  description: Cookies and more - made by kids for the kids
+  description: >-
+    Cookies and more - made by kids for the kids. first try with stackbit and
+    gatsby. the flying hamsters project 
   extra:
     - name: 'og:type'
       value: website
