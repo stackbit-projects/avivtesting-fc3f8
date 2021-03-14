@@ -50,7 +50,7 @@
         "logo": "images/the flying  hamsters.png",
         "logo_alt": "flying hamsters project",
         "has_primary_nav": true,
-        "primary_nav_title": "Company",
+        "primary_nav_title": "The project",
         "primary_nav_links": [
             {
                 "label": "About",
