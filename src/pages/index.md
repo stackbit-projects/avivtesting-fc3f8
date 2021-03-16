@@ -61,10 +61,8 @@ sections:
     background_color: primary
   - type: cta_section
     title: Do you want to be part of the flying hamsters project?
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: |
+      We would love to hear from you! just fill out the form
     actions:
       - label: Button
         url: /pricing
