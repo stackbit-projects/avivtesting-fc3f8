@@ -60,7 +60,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: Do you want to be part of the flying hamsters project?
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
