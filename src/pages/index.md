@@ -9,7 +9,7 @@ sections:
         url: /pricing
         style: primary
       - label: Learn More
-        url: '#FeaturesSection'
+        url: /features
         style: secondary
       - url: '#'
         style: link
