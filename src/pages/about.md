@@ -33,7 +33,7 @@ sections:
         media_width: fourty
         align: left
       - title: Why Flying Hamsters?
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        subtitle: Do we really fly as Hamsters
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
