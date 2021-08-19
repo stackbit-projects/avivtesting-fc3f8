@@ -27,7 +27,7 @@ sections:
         content: >
           Together they came up with the idea, friends from school and friends
           for life
-        image: images/about-2.jpg
+        image: images/Copy of The Flying Hamsters logo juice.png
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
