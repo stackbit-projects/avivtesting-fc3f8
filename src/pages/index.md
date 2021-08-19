@@ -59,20 +59,6 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
-  - type: cta_section
-    title: Do you want to be part of the flying hamsters project?
-    content: |
-      We would love to hear from you! just fill out the form
-    actions:
-      - label: Button
-        url: /pricing
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
-    has_border: false
 seo:
   title: The flying hamsters project by Aviv at Avivly
   description: >-
