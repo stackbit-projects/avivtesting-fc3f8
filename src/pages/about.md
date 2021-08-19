@@ -10,10 +10,8 @@ sections:
     features:
       - title: Behind the Story
         subtitle: Meet Eliya
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          The CEO and owner of the Flying Hamsters Project
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
