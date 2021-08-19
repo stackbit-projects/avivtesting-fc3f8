@@ -24,10 +24,9 @@ sections:
           allowfullscreen></iframe>
       - title: Meet the Team
         subtitle: 'Eliya, Yonathan, Lotem and Emily'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Together they came up with the idea, friends from school and friends
+          for life
         image: images/about-2.jpg
         image_alt: People in a conference room
         media_position: left
