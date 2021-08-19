@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: Our story
-    subtitle: About Page Demo
+    subtitle: The Flying Hamsters
     align: center
     background_color: secondary
   - type: features_section
