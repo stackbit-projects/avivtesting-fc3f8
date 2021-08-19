@@ -34,10 +34,15 @@ sections:
         align: left
       - title: Why Flying Hamsters?
         subtitle: Do we really fly as Hamsters?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          The Flying Hamsters came during a playdate they all had together,
+          while thinking of a cool name for the group someone just threw in the
+          name Hamsters and someone else backed it up with Hamsters and there
+          you go, the Flying Hamsters.
+
+
+          we will never know for sure who is behind it, but we would like to
+          keep it as a mystery. 
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
