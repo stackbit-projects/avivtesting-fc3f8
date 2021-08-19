@@ -30,7 +30,7 @@ sections:
         image: images/Copy of The Flying Hamsters logo juice.png
         image_alt: People in a conference room
         media_position: left
-        media_width: thirty-three
+        media_width: fourty
         align: left
       - title: Section Title Three
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
