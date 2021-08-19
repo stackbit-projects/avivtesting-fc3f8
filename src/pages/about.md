@@ -32,7 +32,7 @@ sections:
         media_position: left
         media_width: fourty
         align: left
-      - title: Section Title Three
+      - title: Why Flying Hamsters?
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
