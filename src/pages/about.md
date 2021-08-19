@@ -29,7 +29,7 @@ sections:
           for life
         image: images/Copy of The Flying Hamsters logo juice.png
         image_alt: People in a conference room
-        media_position: left
+        media_position: right
         media_width: fourty
         align: left
       - title: Section Title Three
