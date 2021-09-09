@@ -87,7 +87,7 @@ sections:
   - type: grid_section
     title: 'You asked, we answered!'
     grid_items:
-      - title: Lorem ipsum dolor sit amet consectetur?
+      - title: Which cookies do you sale?
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
